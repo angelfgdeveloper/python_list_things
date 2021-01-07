@@ -28,9 +28,9 @@ instructions = [
 # set FLASK_APP=todo
 # set FLASK_ENV=development
 # set FLASK_DATABASE_HOST=localhost
-# set FLASK_DATABASE_PASSWORD=leanstartup
-# set FLASK_DATABASE_USER=angelfg
-# set FLASK_DATABASE=todo_db
+# set FLASK_DATABASE_PASSWORD=
+# set FLASK_DATABASE_USER=
+# set FLASK_DATABASE=name_database_all
 
 # Paso 7.1
 # flask init-db
