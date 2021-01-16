@@ -30,7 +30,7 @@ instructions = [
 # set FLASK_DATABASE_HOST=localhost
 # set FLASK_DATABASE_PASSWORD=
 # set FLASK_DATABASE_USER=
-# set FLASK_DATABASE=todo_db
+# set FLASK_DATABASE=
 
 # Paso 7.1
 # flask init-db
